@@ -1,7 +1,7 @@
 {
   "views": [
     {
-      "id": 1601561103968,
+      "id": 170427763401500,
       "type": {
         "id": 1,
         "name": "waiting-room"
@@ -24,100 +24,28 @@
       "zoom": 75
     },
     {
+      "id": 170427763402500,
       "type": {
         "id": 2,
         "name": "panorama"
       },
       "name": "Welcome Room",
+      "likes": 134,
+      "liked": false,
       "asset": {
         "type": {
           "id": 1,
           "name": "image"
         },
-        "folder": "/uploads/",
-        "file": "598827809738999_WAITING-ROOM-5-porte.jpg",
-        "id": 598828028029699
+        "folder": "/textures/welcome-room/",
+        "file": "welcome-room.jpg"
       },
       "orientation": {
-        "latitude": -2.8000000000000003,
-        "longitude": 180.59048090109007
+        "latitude": 0,
+        "longitude": 0
       },
       "zoom": 75,
-      "id": 513717446056299,
       "items": []
-    }
-  ],
-  "assets": [
-    {
-      "type": {
-        "id": 1,
-        "name": "image"
-      },
-      "folder": "/uploads/",
-      "file": "598827809738999_WAITING-ROOM-5-porte.jpg",
-      "id": 598828028029699
-    }
-  ],
-  "users": [
-    {
-      "id": "1601892639985",
-      "username": "publisher",
-      "password": "publisher",
-      "type": "publisher",
-      "firstName": "Jhon",
-      "lastName": "Appleseed"
-    },
-    {
-      "id": "1601892639986",
-      "username": "attendee",
-      "password": "attendee",
-      "type": "attendee",
-      "firstName": "Jhon",
-      "lastName": "Appleseed"
-    },
-    {
-      "type": "self-service",
-      "firstName": "Jhon",
-      "lastName": "Appleseed",
-      "email": "jhonappleseed@gmail.com",
-      "role": 1,
-      "privacy": true,
-      "checkRequest": "",
-      "checkField": "",
-      "id": 366193900457100
-    },
-    {
-      "type": "self-service",
-      "firstName": "Jhon",
-      "lastName": "Appleseed",
-      "email": "jhonappleseed@gmail.com",
-      "role": 1,
-      "privacy": true,
-      "checkRequest": "",
-      "checkField": "",
-      "id": 366375757877200
-    },
-    {
-      "type": "self-service",
-      "firstName": "Jhon",
-      "lastName": "Appleseed",
-      "email": "jhonappleseed@gmail.com",
-      "role": 1,
-      "privacy": true,
-      "checkRequest": "",
-      "checkField": "",
-      "id": 366442796379400
-    },
-    {
-      "type": "self-service",
-      "firstName": "Jhon",
-      "lastName": "Appleseed",
-      "email": "jhonappleseed@gmail.com",
-      "role": 1,
-      "privacy": true,
-      "checkRequest": "",
-      "checkField": "",
-      "id": 372451081715000
     }
   ]
 }

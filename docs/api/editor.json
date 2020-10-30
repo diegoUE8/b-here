@@ -24,28 +24,181 @@
       "zoom": 75
     },
     {
-      "id": 170427763402500,
       "type": {
         "id": 2,
         "name": "panorama"
       },
       "name": "Welcome Room",
-      "likes": 134,
-      "liked": false,
       "asset": {
         "type": {
           "id": 1,
           "name": "image"
         },
-        "folder": "/textures/welcome-room/",
-        "file": "welcome-room.jpg"
+        "folder": "/uploads/",
+        "file": "701010747984900_reception.jpeg",
+        "id": 701010785546600
       },
       "orientation": {
         "latitude": 0,
         "longitude": 0
       },
       "zoom": 75,
-      "items": []
+      "id": 701026727947000
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "Cinema",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "701077123708000_cinema.jpg",
+        "id": 701077138857399
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 701082628662000
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "Timesquare",
+      "asset": {
+        "type": {
+          "id": 2,
+          "name": "video"
+        },
+        "folder": "/uploads/",
+        "file": "701113410652600_time-square-01.mp4",
+        "id": 701113433459800
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 701114816045600
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "Studio TV",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "701132443420499_StudioTV.jpg",
+        "id": 701132571691500
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 701138839972600
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "Museo",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "701148914966100_museo.jpg",
+        "id": 701149181839400
+      },
+      "orientation": {
+        "latitude": -7.200000000000001,
+        "longitude": 86.6
+      },
+      "zoom": 75,
+      "id": 701154801750500,
+      "items": [],
+      "hidden": false
+    }
+  ],
+  "assets": [
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "701010747984900_reception.jpeg",
+      "id": 701010785546600
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "701077123708000_cinema.jpg",
+      "id": 701077138857399
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "701113410652600_time-square-01.mp4",
+      "id": 701113433459800
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "701132443420499_StudioTV.jpg",
+      "id": 701132571691500
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "701148914966100_museo.jpg",
+      "id": 701149181839400
+    }
+  ],
+  "users": [
+    {
+      "id": "1601892639985",
+      "username": "publisher",
+      "password": "publisher",
+      "type": "publisher",
+      "firstName": "Jhon",
+      "lastName": "Appleseed"
+    },
+    {
+      "id": "1601892639986",
+      "username": "attendee",
+      "password": "attendee",
+      "type": "attendee",
+      "firstName": "Jhon",
+      "lastName": "Appleseed"
     }
   ]
 }

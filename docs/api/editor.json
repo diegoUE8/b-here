@@ -101,15 +101,17 @@
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "701132443420499_StudioTV.jpg",
-        "id": 701132571691500
+        "file": "2329084989100_set_gedi.jpg",
+        "id": 2329498215700
       },
       "orientation": {
         "latitude": 0,
         "longitude": 0
       },
       "zoom": 75,
-      "id": 701138839972600
+      "id": 701138839972600,
+      "items": [],
+      "hidden": false
     },
     {
       "type": {
@@ -181,6 +183,15 @@
       "folder": "/uploads/",
       "file": "701148914966100_museo.jpg",
       "id": 701149181839400
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "2329084989100_set_gedi.jpg",
+      "id": 2329498215700
     }
   ],
   "users": [

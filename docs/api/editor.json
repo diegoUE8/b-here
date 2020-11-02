@@ -35,12 +35,12 @@
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "701010747984900_reception.jpeg",
-        "id": 701010785546600
+        "file": "203982824990500_reception.jpg",
+        "id": 203982931959399
       },
       "orientation": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": -11.200000000000001,
+        "longitude": 359
       },
       "zoom": 75,
       "id": 701026727947000,
@@ -59,8 +59,8 @@
             -0.9858951510835381
           ],
           "asset": null,
-          "link": null,
-          "id": 182963851952500
+          "id": 182963851952500,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -76,8 +76,8 @@
             -0.9999106976364549
           ],
           "asset": null,
-          "link": null,
-          "id": 183001594015199
+          "id": 183001594015199,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -93,8 +93,8 @@
             0.9721555940313069
           ],
           "asset": null,
-          "link": null,
-          "id": 183225482307600
+          "id": 183225482307600,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -110,7 +110,6 @@
             0.9990775017303161
           ],
           "asset": null,
-          "link": null,
           "id": 183264156571600,
           "keepOrientation": null
         },
@@ -128,7 +127,6 @@
             -0.4056423831129607
           ],
           "asset": null,
-          "link": null,
           "id": 188092603629200,
           "keepOrientation": null
         },
@@ -146,8 +144,8 @@
             0.4098096712813359
           ],
           "asset": null,
-          "link": null,
-          "id": 189231058138300
+          "id": 189231058138300,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -163,10 +161,11 @@
             0.0048615753794291755
           ],
           "asset": null,
-          "link": null,
-          "id": 190949016767600
+          "id": 190949016767600,
+          "keepOrientation": null
         }
-      ]
+      ],
+      "hidden": false
     },
     {
       "type": {
@@ -331,8 +330,8 @@
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "2329084989100_set_gedi.jpg",
-        "id": 2329498215700
+        "file": "204037974006000_StudioTV.jpg",
+        "id": 204038126986200
       },
       "orientation": {
         "latitude": 0.2,
@@ -427,8 +426,8 @@
             0.9967574024403759
           ],
           "asset": null,
-          "link": null,
-          "id": 189749139224400
+          "id": 189749139224400,
+          "keepOrientation": null
         }
       ],
       "hidden": false
@@ -1045,7 +1044,7 @@
             "id": 3,
             "name": "model"
           },
-          "folder": "/models/book/",
+          "folder": "/models/newspaper/",
           "file": "scene.gltf"
         },
         "usdz": {
@@ -1053,8 +1052,8 @@
             "id": 3,
             "name": "model"
           },
-          "folder": "/models/book/",
-          "file": "Old_Book.usdz"
+          "folder": "/models/newspaper/",
+          "file": "Newspaper.usdz"
         }
       },
       "asset": {
@@ -1077,7 +1076,7 @@
           "title": "Model",
           "abstract": "Abstract",
           "asset": {
-            "folder": "/models/book/",
+            "folder": "/models/newspaper/",
             "file": "scene.gltf"
           }
         },
@@ -1136,7 +1135,7 @@
             "id": 3,
             "name": "model"
           },
-          "folder": "/models/book/",
+          "folder": "/models/newspaper/",
           "file": "scene.gltf"
         },
         "usdz": {
@@ -1144,8 +1143,8 @@
             "id": 3,
             "name": "model"
           },
-          "folder": "/models/book/",
-          "file": "Old_Book.usdz"
+          "folder": "/models/newspaper/",
+          "file": "Newspaper.usdz"
         }
       },
       "asset": {
@@ -1168,7 +1167,7 @@
           "title": "Model",
           "abstract": "Abstract",
           "asset": {
-            "folder": "/models/book/",
+            "folder": "/models/newspaper/",
             "file": "scene.gltf"
           }
         },
@@ -1255,17 +1254,17 @@
           },
           "position": [
             11,
-            0,
-            -4.8
+            2.7,
+            -11.5
           ],
           "rotation": [
             0,
-            -1,
+            -0.8,
             0
           ],
           "scale": [
-            5,
-            3.5,
+            6.5,
+            4,
             1
           ]
         },
@@ -1281,7 +1280,7 @@
               "name": "image"
             },
             "folder": "/textures/room-3d/",
-            "file": "plane-06.jpg"
+            "file": "plane-04.jpg"
           }
         },
         {
@@ -1326,7 +1325,7 @@
               "name": "image"
             },
             "folder": "/textures/room-3d/",
-            "file": "plane-04.jpg"
+            "file": "plane-00.jpg"
           }
         },
         {
@@ -1687,6 +1686,63 @@
           "id": 189188366134700
         }
       ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "GALLERY ",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "204115536320900_Room3D.jpg",
+        "id": 204115833517300
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 204118528576400,
+      "items": [
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            17.56748422336423,
+            2.1335989779950015,
+            10.11832889862487
+          ],
+          "rotation": [
+            2.9514112370213077,
+            -1.517058959258549,
+            2.9431208144045473,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "204266459290800_179282881741600_gedi.mp4",
+            "id": 204266577108300,
+            "chromaKeyColor": null
+          },
+          "id": 204269709685800
+        }
+      ]
     }
   ],
   "assets": [
@@ -1968,6 +2024,51 @@
       "folder": "/uploads/",
       "file": "190033279100200_plane-03.jpg",
       "id": 190033550952500
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "203982824990500_reception.jpg",
+      "id": 203982931959399
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "204037974006000_StudioTV.jpg",
+      "id": 204038126986200
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "204115536320900_Room3D.jpg",
+      "id": 204115833517300
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "204144575939400_179282881741600_gedi.mp4",
+      "id": 204144714002200
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "204266459290800_179282881741600_gedi.mp4",
+      "id": 204266577108300
     }
   ],
   "users": [

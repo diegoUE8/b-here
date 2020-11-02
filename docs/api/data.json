@@ -103,7 +103,7 @@
           },
           "title": "GALLERY",
           "abstract": "Sala Museo",
-          "viewId": 701154801750600,
+          "viewId": 701154801750500,
           "position": [
             0.04280623705746155,
             0.003430977308354222,
@@ -148,6 +148,23 @@
           "asset": null,
           "link": null,
           "id": 189231058138300
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "White Room",
+          "abstract": "try",
+          "viewId": 701154801750600,
+          "position": [
+            0.9997990830372431,
+            0.01944630151771765,
+            0.0048615753794291755
+          ],
+          "asset": null,
+          "link": null,
+          "id": 190949016767600
         }
       ]
     },

@@ -43,14 +43,120 @@
         "longitude": 0
       },
       "zoom": 75,
-      "id": 701026727947000
+      "id": 701026727947000,
+      "items": [
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "SALA VIDEO",
+          "abstract": "Cinema",
+          "viewId": 701082628662000,
+          "position": [
+            0.16735524313943273,
+            -0.0017244314161313572,
+            -0.9858951510835381
+          ],
+          "asset": null,
+          "link": null,
+          "id": 182963851952500
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "DIRETTA 360°",
+          "abstract": "Video 360°",
+          "viewId": 179937912794300,
+          "position": [
+            0.013251188337498944,
+            -0.0017328473164931917,
+            -0.9999106976364549
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183001594015199
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "STUDIO",
+          "abstract": "Studio TV",
+          "viewId": 701138839972600,
+          "position": [
+            0.23425969878522074,
+            -0.005991203442923846,
+            0.9721555940313069
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183225482307600
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "GALLERY",
+          "abstract": "Sala Museo",
+          "viewId": 701154801750600,
+          "position": [
+            0.04280623705746155,
+            0.003430977308354222,
+            0.9990775017303161
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183264156571600,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "SALA MEETING",
+          "abstract": "Vai",
+          "viewId": 180117092309199,
+          "position": [
+            0.9137065821959497,
+            0.024383163745378075,
+            -0.4056423831129607
+          ],
+          "asset": null,
+          "link": null,
+          "id": 188092603629200,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "SALA CIRCOLARE",
+          "abstract": "Scopri",
+          "viewId": 188281911927700,
+          "position": [
+            0.9119633129142575,
+            0.019466618163813395,
+            0.4098096712813359
+          ],
+          "asset": null,
+          "link": null,
+          "id": 189231058138300
+        }
+      ]
     },
     {
       "type": {
         "id": 2,
         "name": "panorama"
       },
-      "name": "Cinema",
+      "name": "SALA VIDEO",
       "asset": {
         "type": {
           "id": 1,
@@ -65,7 +171,114 @@
         "longitude": 0
       },
       "zoom": 75,
-      "id": 701082628662000
+      "id": 701082628662000,
+      "items": [
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            19.923829762543182,
+            1.3,
+            -0.0024120668349053675
+          ],
+          "rotation": [
+            1.5694131403522955,
+            -1.483,
+            1.5694078523375978,
+            "XYZ"
+          ],
+          "scale": [
+            22,
+            11.5,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "179282881741600_gedi.mp4",
+            "id": 179283008138899,
+            "chromaKeyColor": null
+          },
+          "id": 179204674124900
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.8007515220079812,
+            -0.20050824030024586,
+            0.5644408255730629
+          ],
+          "asset": null,
+          "id": 179558253690500,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            19.52331391509496,
+            -3.3000000000000003,
+            0
+          ],
+          "rotation": [
+            -1.472215813156091,
+            -1.3520289175821818,
+            -1.4698249806918184,
+            "XYZ"
+          ],
+          "scale": [
+            4,
+            2.1,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "179636644610000_green-screen.mp4",
+            "id": 179637042972200,
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "id": 179639702102099
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "SALA VIDEO",
+          "abstract": "Streaming",
+          "viewId": 180117092207199,
+          "position": [
+            0.8007256652579062,
+            -0.1946785232123509,
+            -0.5665145025479416
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183114287549400
+        }
+      ],
+      "hidden": false
     },
     {
       "type": {
@@ -94,7 +307,7 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "Studio TV",
+      "name": "STUDIO",
       "asset": {
         "type": {
           "id": 1,
@@ -105,12 +318,102 @@
         "id": 2329498215700
       },
       "orientation": {
-        "latitude": 0,
-        "longitude": 0
+        "latitude": 0.2,
+        "longitude": 352.4
       },
       "zoom": 75,
       "id": 701138839972600,
-      "items": [],
+      "items": [
+        {
+          "id": 3333,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 4,
+              "name": "publisher-stream"
+            },
+            "folder": "",
+            "file": "publisherStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "position": [
+            11,
+            0.4,
+            1.55
+          ],
+          "rotation": [
+            0,
+            -1.3,
+            0
+          ],
+          "scale": [
+            2.8,
+            1.9,
+            1
+          ]
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            19.9,
+            0.9,
+            -1.368369538878858
+          ],
+          "rotation": [
+            -0.301,
+            -1.468,
+            -0.2991175826810733,
+            "XYZ"
+          ],
+          "scale": [
+            5.8,
+            3.9,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "182143942417700_green-screen.mp4",
+            "id": 182144828567200,
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "id": 182146936172100
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            -0.07955179503161898,
+            -0.012091012677267194,
+            0.9967574024403759
+          ],
+          "asset": null,
+          "link": null,
+          "id": 189749139224400
+        }
+      ],
       "hidden": false
     },
     {
@@ -118,7 +421,7 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "Museo",
+      "name": "GALLERY",
       "asset": {
         "type": {
           "id": 1,
@@ -134,8 +437,1239 @@
       },
       "zoom": 75,
       "id": 701154801750500,
-      "items": [],
+      "items": [
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -1.0999999999999999,
+            -2.8,
+            19.77019345345795
+          ],
+          "rotation": [
+            -2.992,
+            0.026187529591683634,
+            3.137649207017787,
+            "XYZ"
+          ],
+          "scale": [
+            9.639999999999997,
+            5.5,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "183332188116299_gedi.mp4",
+            "id": 183332674905300,
+            "chromaKeyColor": null
+          },
+          "id": 183335188898600
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Modello 3D",
+          "abstract": "Scopri",
+          "viewId": 180117092208199,
+          "position": [
+            0.4618719292628976,
+            -0.5392610474413198,
+            -0.7041816837091545
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183538945444099,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            -0.8401410446496612,
+            -0.059490169029387786,
+            0.5390954877234929
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183561049905400
+        }
+      ],
       "hidden": false
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "White Room GALLERY",
+      "likes": 40,
+      "liked": false,
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/welcome-room/",
+        "file": "whiteroom.jpeg"
+      },
+      "zoom": 75,
+      "id": 701154801750600,
+      "items": [
+        {
+          "id": 2610,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 4,
+              "name": "publisher-stream"
+            },
+            "folder": "",
+            "file": "publisherStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "position": [
+            20,
+            0.2,
+            0
+          ],
+          "rotation": [
+            0,
+            -1.57079632679,
+            0
+          ],
+          "scale": [
+            10,
+            7.5,
+            1
+          ]
+        },
+        {
+          "id": 2620,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 5,
+              "name": "next-attendee-stream"
+            },
+            "folder": "",
+            "file": "nextAttendeeStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ],
+            "index": 0
+          },
+          "position": [
+            8,
+            -1.5,
+            -6.2
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            4,
+            3,
+            1
+          ]
+        },
+        {
+          "id": 2630,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 5,
+              "name": "next-attendee-stream"
+            },
+            "folder": "",
+            "file": "nextAttendeeStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ],
+            "index": 1
+          },
+          "position": [
+            8,
+            -1.5,
+            5.7
+          ],
+          "rotation": [
+            0,
+            0,
+            0
+          ],
+          "scale": [
+            4,
+            3,
+            1
+          ]
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            12,
+            1.9999999999999987,
+            -17.48624086117418
+          ],
+          "rotation": [
+            0.20745165122430276,
+            -0.29581581224929304,
+            0.08523164866971401,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "184822167425500_plane-02.jpg",
+            "id": 184822184203300,
+            "chromaKeyColor": null
+          },
+          "id": 184824257028100
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            8.038125858979607,
+            1.8896206672606182,
+            18.25293299562767
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "184936618608700_plane-01.jpg",
+            "id": 184937061268800,
+            "chromaKeyColor": null
+          },
+          "link": null,
+          "id": 185071752254200,
+          "keepOrientation": null,
+          "rotation": [
+            3.0601631774375284,
+            -0.10816510949655575,
+            3.1088048617666666,
+            "XYZ"
+          ],
+          "scale": [
+            12,
+            7,
+            1
+          ]
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -19.95872292671012,
+            1.5485744440225662,
+            -1.259430158689746
+          ],
+          "rotation": [
+            -0.19704397523287992,
+            1.541906585039886,
+            0.196647718874611,
+            "XYZ"
+          ],
+          "scale": [
+            18,
+            10,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "189931272559299_plane-05.mp4",
+            "id": 189931702347900,
+            "chromaKeyColor": null
+          },
+          "id": 189936510108400
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -11.926401242788568,
+            0.7850268011962844,
+            16.03573154918149
+          ],
+          "rotation": [
+            3.0926768574342427,
+            0.639,
+            -3.112408184182966,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            7,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "189994037713300_plane-06.jpg",
+            "id": 189994073503700,
+            "chromaKeyColor": null
+          },
+          "id": 189995455855699
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -7.229248326354037,
+            1.6276421183221268,
+            -18.387667985551964
+          ],
+          "rotation": [
+            -0.04197944660069704,
+            0.40222030415995297,
+            0.01644155410182404,
+            "XYZ"
+          ],
+          "scale": [
+            12,
+            7,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "190033279100200_plane-03.jpg",
+            "id": 190033550952500,
+            "chromaKeyColor": null
+          },
+          "id": 190034264358900
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Modello 3D",
+          "abstract": "scopri",
+          "viewId": 180117092209199,
+          "position": [
+            0.8545420934170406,
+            -0.5189478510428476,
+            -0.02123531201636579
+          ],
+          "asset": null,
+          "link": null,
+          "id": 190194883457100
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.9378525455780955,
+            -0.3468001996326311,
+            -0.012736729857140982
+          ],
+          "asset": null,
+          "link": null,
+          "id": 190213893892400
+        }
+      ],
+      "orientation": {
+        "latitude": -10.799999999999997,
+        "longitude": 0.6000000000000227
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "DIRETTA 360°",
+      "asset": {
+        "type": {
+          "id": 2,
+          "name": "video"
+        },
+        "folder": "/uploads/",
+        "file": "179931846546500_videovr.mp4",
+        "id": 179932588441500
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 179937912794300,
+      "items": [
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.9224274981778517,
+            -0.3790122438099072,
+            -0.0740083079628815
+          ],
+          "asset": null,
+          "link": null,
+          "id": 180017803394100
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "SALA VIDEO Streaming",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "180115143554499_cinema.jpg",
+        "id": 180115164082899
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 180117092207199,
+      "items": [
+        {
+          "id": 3333,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 4,
+              "name": "publisher-stream"
+            },
+            "folder": "",
+            "file": "publisherStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "position": [
+            18,
+            -2.4,
+            0
+          ],
+          "rotation": [
+            0,
+            -1.57079632679,
+            0
+          ],
+          "scale": [
+            5,
+            3.5,
+            1
+          ]
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            19.923829762543182,
+            1.3,
+            -0.0024120668349053675
+          ],
+          "rotation": [
+            1.5694131403522955,
+            -1.483493041730947,
+            1.5694078523375978,
+            "XYZ"
+          ],
+          "scale": [
+            22,
+            11.5,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "179282881741600_gedi.mp4",
+            "id": 179283008138899,
+            "chromaKeyColor": null
+          },
+          "id": 179204674124900
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.8007515220079812,
+            -0.20050824030024586,
+            0.5644408255730629
+          ],
+          "asset": null,
+          "id": 179558253690500,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "SALA VIDEO",
+          "abstract": "Classica",
+          "viewId": 701082628662000,
+          "position": [
+            0.798656442246095,
+            -0.1961171923310653,
+            -0.5689340331980411
+          ],
+          "asset": null,
+          "link": null,
+          "id": 183180140256400
+        }
+      ],
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "model"
+      },
+      "name": "Modello 3D-1",
+      "likes": 172,
+      "liked": false,
+      "ar": {
+        "gltf": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/book/",
+          "file": "scene.gltf"
+        },
+        "usdz": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/book/",
+          "file": "Old_Book.usdz"
+        }
+      },
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/foto360/",
+        "file": "museo.jpg"
+      },
+      "zoom": 55,
+      "id": 180117092208199,
+      "items": [
+        {
+          "id": 30810,
+          "type": {
+            "id": 4,
+            "name": "gltf"
+          },
+          "title": "Model",
+          "abstract": "Abstract",
+          "asset": {
+            "folder": "/models/book/",
+            "file": "scene.gltf"
+          }
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Back",
+          "abstract": "Torna alla vista precedente",
+          "viewId": 701154801750500,
+          "position": [
+            -0.020876979212886747,
+            -0.6088728000351061,
+            -0.7929931053397339
+          ],
+          "asset": null,
+          "link": null,
+          "id": 184434507123300
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.938756076768778,
+            -0.26915068712291806,
+            -0.21516258027583093
+          ],
+          "asset": null,
+          "link": null,
+          "id": 184600723797900
+        }
+      ],
+      "orientation": {
+        "latitude": 30,
+        "longitude": 125
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "model"
+      },
+      "name": "Modello 3D-2",
+      "likes": 172,
+      "liked": false,
+      "ar": {
+        "gltf": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/book/",
+          "file": "scene.gltf"
+        },
+        "usdz": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/book/",
+          "file": "Old_Book.usdz"
+        }
+      },
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/welcome-room/",
+        "file": "whiteroom.jpeg"
+      },
+      "zoom": 55,
+      "id": 180117092209199,
+      "items": [
+        {
+          "id": 30810,
+          "type": {
+            "id": 4,
+            "name": "gltf"
+          },
+          "title": "Model",
+          "abstract": "Abstract",
+          "asset": {
+            "folder": "/models/book/",
+            "file": "scene.gltf"
+          }
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Back",
+          "abstract": "Torna alla vista precedente",
+          "viewId": 701154801750600,
+          "position": [
+            0.685998348648836,
+            -0.4704323887888365,
+            0.5550672330713631
+          ],
+          "asset": null,
+          "link": null,
+          "id": 185702316811300
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.6435354862604831,
+            -0.44689470060733494,
+            -0.6214074383949424
+          ],
+          "asset": null,
+          "link": null,
+          "id": 185727038709300
+        }
+      ],
+      "orientation": {
+        "latitude": 25,
+        "longitude": 180
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 4,
+        "name": "room-3d"
+      },
+      "name": "Room 3D Gedi",
+      "likes": 321,
+      "liked": false,
+      "modelFolder": "/models/room-3d/",
+      "modelFile": "test.fbx",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/welcome-room/",
+        "file": "spaceroom2.jpeg"
+      },
+      "zoom": 55,
+      "id": 180117092309199,
+      "items": [
+        {
+          "id": 3334,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 4,
+              "name": "publisher-stream"
+            },
+            "folder": "",
+            "file": "publisherStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "position": [
+            11,
+            0,
+            -4.8
+          ],
+          "rotation": [
+            0,
+            -1,
+            0
+          ],
+          "scale": [
+            5,
+            3.5,
+            1
+          ]
+        },
+        {
+          "id": "plane-01",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-06.jpg"
+          }
+        },
+        {
+          "id": "plane-02",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-02.jpg"
+          }
+        },
+        {
+          "id": "plane-03",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-03.jpg"
+          }
+        },
+        {
+          "id": "plane-04",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-04.jpg"
+          }
+        },
+        {
+          "id": "plane-05",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-02.jpg"
+          }
+        },
+        {
+          "id": "plane-06",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-06.jpg"
+          }
+        },
+        {
+          "id": "plane-07",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-07.jpg"
+          }
+        },
+        {
+          "id": "plane-08",
+          "type": {
+            "id": 5,
+            "name": "texture"
+          },
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/textures/room-3d/",
+            "file": "plane-08.jpg"
+          }
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.9991579158673123,
+            -0.04087501734161799,
+            0.003562599754573015
+          ],
+          "asset": null,
+          "link": null,
+          "id": 188144632627200
+        }
+      ],
+      "orientation": {
+        "latitude": 10,
+        "longitude": 0
+      }
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "SALA CIRCOLARE",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "188279911199500_spaceroom.jpeg",
+        "id": 188279940307400
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 188281911927700,
+      "items": [
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            18.7,
+            -2.3351909681387055,
+            0.4825776177359279
+          ],
+          "rotation": [
+            -1.693864835771916,
+            -1.2030874384459245,
+            -1.7025824889149892,
+            "XYZ"
+          ],
+          "scale": [
+            16,
+            10,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "188322430150600_179636644610000_green-screen.mp4",
+            "id": 188322846562100,
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ]
+          },
+          "id": 188325740631500
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            17.83359170516276,
+            0.09713513261296136,
+            -9.052821198917062
+          ],
+          "rotation": [
+            0.01072940722515792,
+            -1.1010421368424779,
+            0.009567268610737307,
+            "XYZ"
+          ],
+          "scale": [
+            10,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "188836744158000_plane-05.mp4",
+            "id": 188837053468200,
+            "chromaKeyColor": null
+          },
+          "id": 188395695721600
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            17.983251878240484,
+            -0.17653973506484996,
+            8.643366834836288
+          ],
+          "rotation": [
+            -2.983659326945741,
+            -1.1178521677232838,
+            -2.999359285436819,
+            "XYZ"
+          ],
+          "scale": [
+            9,
+            5,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "188469727922700_plane-02.jpg",
+            "id": 188469741864199,
+            "chromaKeyColor": null
+          },
+          "id": 188470877005400
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            4.146729982307736,
+            0.5748926078024995,
+            19.556945797933892
+          ],
+          "rotation": [
+            3.112205288686614,
+            -0.20885150512398706,
+            3.1354979010650874,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "188580135730099_plane-03.jpg",
+            "id": 188580414885799,
+            "chromaKeyColor": null
+          },
+          "id": 188581638985500
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -15.605869870915456,
+            0.3977196942972406,
+            9.016114726420929
+          ],
+          "rotation": [
+            3.1115081918103007,
+            1.1277585915297395,
+            -3.119017501187446,
+            "XYZ"
+          ],
+          "scale": [
+            10,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "188638089854300_plane-04.jpg",
+            "id": 188638374555300,
+            "chromaKeyColor": null
+          },
+          "id": 188639289022800
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            -15.365499428701126,
+            0.461697630110409,
+            -7.89682983333558
+          ],
+          "rotation": [
+            -0.077892780343477,
+            1.21760887184055,
+            0.07310251635390362,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "188698399485000_plane-05.mp4",
+            "id": 188698539565300,
+            "chromaKeyColor": null
+          },
+          "id": 188698846797099
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            1.6388068000379488,
+            0.6634943873118717,
+            -19.743151483627027
+          ],
+          "rotation": [
+            0.02347189945362091,
+            0.10636542355018698,
+            -0.0037106248766064064,
+            "XYZ"
+          ],
+          "scale": [
+            12,
+            7,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "188740854989200_plane-06.jpg",
+            "id": 188740905500000,
+            "chromaKeyColor": null
+          },
+          "id": 188741969781900
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Welcome Room",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.8987711983705405,
+            -0.4377242548775917,
+            0.024653796288590626
+          ],
+          "asset": null,
+          "link": null,
+          "id": 189188366134700
+        }
+      ]
     }
   ],
   "assets": [
@@ -192,6 +1726,231 @@
       "folder": "/uploads/",
       "file": "2329084989100_set_gedi.jpg",
       "id": 2329498215700
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "179200452912499_Video finale SG.mp4",
+      "id": 179202151489700
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "179282881741600_gedi.mp4",
+      "id": 179283008138899,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "179636644610000_green-screen.mp4",
+      "id": 179637042972200,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "179931846546500_videovr.mp4",
+      "id": 179932588441500
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "180115143554499_cinema.jpg",
+      "id": 180115164082899
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "182143942417700_green-screen.mp4",
+      "id": 182144828567200,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "183332188116299_gedi.mp4",
+      "id": 183332674905300
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "184659643394100_gedi.mp4",
+      "id": 184660032265800
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "184822167425500_plane-02.jpg",
+      "id": 184822184203300
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "184936618608700_plane-01.jpg",
+      "id": 184937061268800,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188279911199500_spaceroom.jpeg",
+      "id": 188279940307400
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "188314692170800_184659643394100_gedi.mp4",
+      "id": 188314783303599
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "188322430150600_179636644610000_green-screen.mp4",
+      "id": 188322846562100,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188392468154200_184936618608700_plane-01.jpg",
+      "id": 188392523827900
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188469727922700_plane-02.jpg",
+      "id": 188469741864199
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188580135730099_plane-03.jpg",
+      "id": 188580414885799
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188638089854300_plane-04.jpg",
+      "id": 188638374555300
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "188698399485000_plane-05.mp4",
+      "id": 188698539565300
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "188740854989200_plane-06.jpg",
+      "id": 188740905500000
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "188836744158000_plane-05.mp4",
+      "id": 188837053468200,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "189931272559299_plane-05.mp4",
+      "id": 189931702347900
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "189994037713300_plane-06.jpg",
+      "id": 189994073503700
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "190033279100200_plane-03.jpg",
+      "id": 190033550952500
     }
   ],
   "users": [

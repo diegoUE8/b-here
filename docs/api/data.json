@@ -103,7 +103,7 @@
           },
           "title": "GALLERY",
           "abstract": "Sala Museo",
-          "viewId": 701154801750500,
+          "viewId": 204118528576400,
           "position": [
             0.04280623705746155,
             0.003430977308354222,
@@ -122,47 +122,13 @@
           "abstract": "Vai",
           "viewId": 180117092309199,
           "position": [
-            0.9137065821959497,
-            0.024383163745378075,
-            -0.4056423831129607
+            0.9997629482557137,
+            0.021012184881839657,
+            0.005703979447222601
           ],
           "asset": null,
-          "id": 188092603629200,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "SALA CIRCOLARE",
-          "abstract": "Scopri",
-          "viewId": 188281911927700,
-          "position": [
-            0.9119633129142575,
-            0.019466618163813395,
-            0.4098096712813359
-          ],
-          "asset": null,
-          "id": 189231058138300,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "White Room",
-          "abstract": "try",
-          "viewId": 701154801750600,
-          "position": [
-            0.9997990830372431,
-            0.01944630151771765,
-            0.0048615753794291755
-          ],
-          "asset": null,
-          "id": 190949016767600,
-          "keepOrientation": null
+          "link": null,
+          "id": 272705366345800
         }
       ],
       "hidden": false
@@ -330,8 +296,8 @@
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "204037974006000_StudioTV.jpg",
-        "id": 204038126986200
+        "file": "269400775785800_Unreal Engine Demo 360 2020.11.03 - 11.11.51.19.jpg",
+        "id": 269401094149600
       },
       "orientation": {
         "latitude": 0.2,
@@ -437,7 +403,7 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "GALLERY",
+      "name": "MUSEO",
       "asset": {
         "type": {
           "id": 1,
@@ -492,24 +458,6 @@
             "id": 1,
             "name": "nav"
           },
-          "title": "Modello 3D",
-          "abstract": "Scopri",
-          "viewId": 180117092208199,
-          "position": [
-            0.4618719292628976,
-            -0.5392610474413198,
-            -0.7041816837091545
-          ],
-          "asset": null,
-          "link": null,
-          "id": 183538945444099,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
           "title": "Welcome Room",
           "abstract": "Torna",
           "viewId": 701026727947000,
@@ -519,8 +467,8 @@
             0.5390954877234929
           ],
           "asset": null,
-          "link": null,
-          "id": 183561049905400
+          "id": 183561049905400,
+          "keepOrientation": null
         }
       ],
       "hidden": false
@@ -826,23 +774,6 @@
             "id": 1,
             "name": "nav"
           },
-          "title": "Modello 3D",
-          "abstract": "scopri",
-          "viewId": 180117092209199,
-          "position": [
-            0.8545420934170406,
-            -0.5189478510428476,
-            -0.02123531201636579
-          ],
-          "asset": null,
-          "link": null,
-          "id": 190194883457100
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
           "title": "Welcome Room",
           "abstract": "Torna",
           "viewId": 701026727947000,
@@ -1035,18 +966,10 @@
         "id": 1,
         "name": "model"
       },
-      "name": "Modello 3D-1",
+      "name": "Giornale",
       "likes": 172,
       "liked": false,
       "ar": {
-        "gltf": {
-          "type": {
-            "id": 3,
-            "name": "model"
-          },
-          "folder": "/models/newspaper/",
-          "file": "scene.gltf"
-        },
         "usdz": {
           "type": {
             "id": 3,
@@ -1054,6 +977,14 @@
           },
           "folder": "/models/newspaper/",
           "file": "Newspaper.usdz"
+        },
+        "gltf": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/newspaper/",
+          "file": "scene.gltf"
         }
       },
       "asset": {
@@ -1061,8 +992,8 @@
           "id": 1,
           "name": "image"
         },
-        "folder": "/textures/foto360/",
-        "file": "museo.jpg"
+        "folder": "/textures/welcome-room/",
+        "file": "spaceroom2.jpeg"
       },
       "zoom": 55,
       "id": 180117092208199,
@@ -1087,128 +1018,37 @@
           },
           "title": "Back",
           "abstract": "Torna alla vista precedente",
-          "viewId": 701154801750500,
+          "viewId": 180117092309199,
           "position": [
-            -0.020876979212886747,
-            -0.6088728000351061,
-            -0.7929931053397339
+            0.8866168777063418,
+            -0.21215473769571772,
+            -0.4109755217035672
           ],
           "asset": null,
           "link": null,
-          "id": 184434507123300
+          "id": 274766459575100
         },
         {
           "type": {
             "id": 1,
             "name": "nav"
           },
-          "title": "Welcome Room",
+          "title": "Reception",
           "abstract": "Torna",
           "viewId": 701026727947000,
           "position": [
-            0.938756076768778,
-            -0.26915068712291806,
-            -0.21516258027583093
+            0.9993233935595086,
+            -0.017000910234716154,
+            0.032614784008160785
           ],
           "asset": null,
           "link": null,
-          "id": 184600723797900
+          "id": 274787003404799
         }
       ],
       "orientation": {
-        "latitude": 30,
+        "latitude": 15,
         "longitude": 125
-      },
-      "hidden": false
-    },
-    {
-      "type": {
-        "id": 1,
-        "name": "model"
-      },
-      "name": "Modello 3D-2",
-      "likes": 172,
-      "liked": false,
-      "ar": {
-        "gltf": {
-          "type": {
-            "id": 3,
-            "name": "model"
-          },
-          "folder": "/models/newspaper/",
-          "file": "scene.gltf"
-        },
-        "usdz": {
-          "type": {
-            "id": 3,
-            "name": "model"
-          },
-          "folder": "/models/newspaper/",
-          "file": "Newspaper.usdz"
-        }
-      },
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/textures/welcome-room/",
-        "file": "whiteroom.jpeg"
-      },
-      "zoom": 55,
-      "id": 180117092209199,
-      "items": [
-        {
-          "id": 30810,
-          "type": {
-            "id": 4,
-            "name": "gltf"
-          },
-          "title": "Model",
-          "abstract": "Abstract",
-          "asset": {
-            "folder": "/models/newspaper/",
-            "file": "scene.gltf"
-          }
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Back",
-          "abstract": "Torna alla vista precedente",
-          "viewId": 701154801750600,
-          "position": [
-            0.685998348648836,
-            -0.4704323887888365,
-            0.5550672330713631
-          ],
-          "asset": null,
-          "link": null,
-          "id": 185702316811300
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Welcome Room",
-          "abstract": "Torna",
-          "viewId": 701026727947000,
-          "position": [
-            0.6435354862604831,
-            -0.44689470060733494,
-            -0.6214074383949424
-          ],
-          "asset": null,
-          "link": null,
-          "id": 185727038709300
-        }
-      ],
-      "orientation": {
-        "latitude": 25,
-        "longitude": 180
       },
       "hidden": false
     },
@@ -1404,288 +1244,29 @@
           "asset": null,
           "link": null,
           "id": 188144632627200
-        }
-      ],
-      "orientation": {
-        "latitude": 10,
-        "longitude": 0
-      }
-    },
-    {
-      "type": {
-        "id": 2,
-        "name": "panorama"
-      },
-      "name": "SALA CIRCOLARE",
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/uploads/",
-        "file": "188279911199500_spaceroom.jpeg",
-        "id": 188279940307400
-      },
-      "orientation": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "zoom": 75,
-      "id": 188281911927700,
-      "items": [
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            18.7,
-            -2.3351909681387055,
-            0.4825776177359279
-          ],
-          "rotation": [
-            -1.693864835771916,
-            -1.2030874384459245,
-            -1.7025824889149892,
-            "XYZ"
-          ],
-          "scale": [
-            16,
-            10,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 2,
-              "name": "video"
-            },
-            "folder": "/uploads/",
-            "file": "188322430150600_179636644610000_green-screen.mp4",
-            "id": 188322846562100,
-            "chromaKeyColor": [
-              0,
-              1,
-              0
-            ]
-          },
-          "id": 188325740631500
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            17.83359170516276,
-            0.09713513261296136,
-            -9.052821198917062
-          ],
-          "rotation": [
-            0.01072940722515792,
-            -1.1010421368424779,
-            0.009567268610737307,
-            "XYZ"
-          ],
-          "scale": [
-            10,
-            6,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 2,
-              "name": "video"
-            },
-            "folder": "/uploads/",
-            "file": "188836744158000_plane-05.mp4",
-            "id": 188837053468200,
-            "chromaKeyColor": null
-          },
-          "id": 188395695721600
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            17.983251878240484,
-            -0.17653973506484996,
-            8.643366834836288
-          ],
-          "rotation": [
-            -2.983659326945741,
-            -1.1178521677232838,
-            -2.999359285436819,
-            "XYZ"
-          ],
-          "scale": [
-            9,
-            5,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "188469727922700_plane-02.jpg",
-            "id": 188469741864199,
-            "chromaKeyColor": null
-          },
-          "id": 188470877005400
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            4.146729982307736,
-            0.5748926078024995,
-            19.556945797933892
-          ],
-          "rotation": [
-            3.112205288686614,
-            -0.20885150512398706,
-            3.1354979010650874,
-            "XYZ"
-          ],
-          "scale": [
-            11,
-            6,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "188580135730099_plane-03.jpg",
-            "id": 188580414885799,
-            "chromaKeyColor": null
-          },
-          "id": 188581638985500
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            -15.605869870915456,
-            0.3977196942972406,
-            9.016114726420929
-          ],
-          "rotation": [
-            3.1115081918103007,
-            1.1277585915297395,
-            -3.119017501187446,
-            "XYZ"
-          ],
-          "scale": [
-            10,
-            6,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "188638089854300_plane-04.jpg",
-            "id": 188638374555300,
-            "chromaKeyColor": null
-          },
-          "id": 188639289022800
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            -15.365499428701126,
-            0.461697630110409,
-            -7.89682983333558
-          ],
-          "rotation": [
-            -0.077892780343477,
-            1.21760887184055,
-            0.07310251635390362,
-            "XYZ"
-          ],
-          "scale": [
-            11,
-            6,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 2,
-              "name": "video"
-            },
-            "folder": "/uploads/",
-            "file": "188698399485000_plane-05.mp4",
-            "id": 188698539565300,
-            "chromaKeyColor": null
-          },
-          "id": 188698846797099
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            1.6388068000379488,
-            0.6634943873118717,
-            -19.743151483627027
-          ],
-          "rotation": [
-            0.02347189945362091,
-            0.10636542355018698,
-            -0.0037106248766064064,
-            "XYZ"
-          ],
-          "scale": [
-            12,
-            7,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "188740854989200_plane-06.jpg",
-            "id": 188740905500000,
-            "chromaKeyColor": null
-          },
-          "id": 188741969781900
         },
         {
           "type": {
             "id": 1,
             "name": "nav"
           },
-          "title": "Welcome Room",
-          "abstract": "Torna",
-          "viewId": 701026727947000,
+          "title": "Modello 3D",
+          "abstract": "Prova",
+          "viewId": 180117092208199,
           "position": [
-            0.8987711983705405,
-            -0.4377242548775917,
-            0.024653796288590626
+            0.7018008039148366,
+            -0.15631530001172528,
+            -0.6950116247997102
           ],
           "asset": null,
           "link": null,
-          "id": 189188366134700
+          "id": 274706410765499
         }
-      ]
+      ],
+      "orientation": {
+        "latitude": 10,
+        "longitude": 0
+      }
     },
     {
       "type": {
@@ -1699,14 +1280,14 @@
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "204115536320900_Room3D.jpg",
-        "id": 204115833517300
+        "file": "273021138429100_Room3D.jpg",
+        "id": 273021380257800
       },
       "orientation": {
         "latitude": 0,
         "longitude": 0
       },
-      "zoom": 75,
+      "zoom": 68.9691,
       "id": 204118528576400,
       "items": [
         {
@@ -1741,8 +1322,165 @@
             "chromaKeyColor": null
           },
           "id": 204269709685800
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "La Stampa",
+          "abstract": "L'accordo sullo sblocco torino",
+          "viewId": 204118528576400,
+          "position": [
+            0.9312687669098308,
+            -0.13385610413318264,
+            -0.33885251535812705
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273269860357799_plane-08.jpg",
+            "id": 273269889218400,
+            "chromaKeyColor": null
+          },
+          "link": {
+            "title": "Gedi sala stampa",
+            "href": "http://www.gedispa.it/it/sala-stampa/comunicati-stampa.html",
+            "target": "_blank"
+          },
+          "id": 273163553583199,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Receptiom",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.8748296985250655,
+            -0.07355136445605855,
+            0.4788143642009864
+          ],
+          "asset": null,
+          "link": null,
+          "id": 273318936100600
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "L'arte di Tullio Pericoli",
+          "abstract": "Le illustrazioni",
+          "viewId": 204118528576400,
+          "position": [
+            0.48477627041721216,
+            -0.08752172051285127,
+            0.8702481922295779
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273606412957799_PastedGraphic-1.png",
+            "id": 273606694404400
+          },
+          "link": {
+            "title": "Tullio Pericoli",
+            "href": "https://www.tulliopericoli.com/",
+            "target": "_blank"
+          },
+          "id": 273607732168299
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Robinson",
+          "abstract": "I libri da non perdere",
+          "viewId": 204118528576400,
+          "position": [
+            -0.8613116736797153,
+            -0.30467038486283854,
+            0.40659335627943705
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273704111989600_robinson-46.png",
+            "id": 273704128161499
+          },
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.repubblica.it/robinson/",
+            "target": "_blank"
+          },
+          "id": 273705761003099
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "La Repubblica",
+          "abstract": "Il giornale",
+          "viewId": 204118528576400,
+          "position": [
+            -0.1551022250394225,
+            -0.2382223888445413,
+            -0.9587457396207926
+          ],
+          "asset": null,
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.repubblica.it/",
+            "target": "_blank"
+          },
+          "id": 273798477571200
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Tullio Pericoli",
+          "abstract": "Tutte le illustrazioni ",
+          "viewId": 204118528576400,
+          "position": [
+            -0.049124361608920857,
+            -0.12319765439452304,
+            0.9911655437151776
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273851876726400_PastedGraphic-17.png",
+            "id": 273851890206000
+          },
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.tulliopericoli.com/",
+            "target": "_blank"
+          },
+          "id": 273875609279899
         }
-      ]
+      ],
+      "hidden": false
     }
   ],
   "assets": [
@@ -2069,6 +1807,80 @@
       "folder": "/uploads/",
       "file": "204266459290800_179282881741600_gedi.mp4",
       "id": 204266577108300
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "269400775785800_Unreal Engine Demo 360 2020.11.03 - 11.11.51.19.jpg",
+      "id": 269401094149600
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "272856458025200_Room3D.jpg",
+      "id": 272856711598099
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273021138429100_Room3D.jpg",
+      "id": 273021380257800
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273066677197600_1_bis_bis-1-768x1090.jpg",
+      "id": 273066954741799,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273269860357799_plane-08.jpg",
+      "id": 273269889218400,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273606412957799_PastedGraphic-1.png",
+      "id": 273606694404400
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273704111989600_robinson-46.png",
+      "id": 273704128161499
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "273851876726400_PastedGraphic-17.png",
+      "id": 273851890206000
     }
   ],
   "users": [

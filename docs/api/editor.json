@@ -983,7 +983,7 @@
             "id": 3,
             "name": "model"
           },
-          "folder": "/models/newspaper/",
+          "folder": "/models/book/",
           "file": "scene.gltf"
         }
       },
@@ -997,6 +997,97 @@
       },
       "zoom": 55,
       "id": 180117092208199,
+      "items": [
+        {
+          "id": 30810,
+          "type": {
+            "id": 4,
+            "name": "gltf"
+          },
+          "title": "Model",
+          "abstract": "Abstract",
+          "asset": {
+            "folder": "/models/book/",
+            "file": "scene.gltf"
+          }
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Back",
+          "abstract": "Torna alla vista precedente",
+          "viewId": 180117092309199,
+          "position": [
+            0.8866168777063418,
+            -0.21215473769571772,
+            -0.4109755217035672
+          ],
+          "asset": null,
+          "link": null,
+          "id": 274766459575100
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Reception",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.9993233935595086,
+            -0.017000910234716154,
+            0.032614784008160785
+          ],
+          "asset": null,
+          "link": null,
+          "id": 274787003404799
+        }
+      ],
+      "orientation": {
+        "latitude": 15,
+        "longitude": 125
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "model"
+      },
+      "name": "Times",
+      "likes": 172,
+      "liked": false,
+      "ar": {
+        "usdz": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/newspaper/",
+          "file": "Newspaper.usdz"
+        },
+        "gltf": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/newspaper/",
+          "file": "scene.gltf"
+        }
+      },
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/welcome-room/",
+        "file": "spaceroom2.jpeg"
+      },
+      "zoom": 55,
+      "id": 180117092108199,
       "items": [
         {
           "id": 30810,

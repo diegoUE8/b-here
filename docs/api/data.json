@@ -195,7 +195,9 @@
             -0.0011883237970923043,
             0.9673662736307517
           ],
-          "viewId": 201
+          "viewId": 361592534299900,
+          "keepOrientation": null,
+          "asset": null
         },
         {
           "id": 1012,
@@ -236,11 +238,13 @@
           "title": "Studio progettazione",
           "abstract": "Scopri",
           "position": [
-            0.9943487562790542,
-            -0.06949998191509675,
-            0.08025150092116146
+            0.9903487562790542,
+            0.021500018084903316,
+            0.06025150092116144
           ],
-          "viewId": 26
+          "viewId": 26,
+          "keepOrientation": null,
+          "asset": null
         },
         {
           "id": 1015,

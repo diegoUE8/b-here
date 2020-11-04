@@ -7,7 +7,7 @@ export const environmentStatic = {
 	},
 	assets: './',
 	worker: './js/workers/image.service.worker.js',
-	githubDocs: 'https://raw.githubusercontent.com/diegoUE8/b-here/main/docs/',
+	githubDocs: 'https://raw.githubusercontent.com/diegoUE8/b-here/gedy/docs/',
 	url: {
 		index: '/',
 		access: '/',

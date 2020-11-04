@@ -7,7 +7,7 @@ export const environmentServed = {
 	},
 	assets: '/Modules/B-Here/Client/docs/',
 	worker: '/Modules/B-Here/Client/docs/js/workers/image.service.worker.js',
-	githubDocs: 'https://raw.githubusercontent.com/diegoUE8/b-here/main/docs/',
+	githubDocs: 'https://raw.githubusercontent.com/diegoUE8/b-here/nyky/docs/',
 	url: {
 		index: '/',
 		access: '/',

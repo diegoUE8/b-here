@@ -2185,6 +2185,40 @@
             12,
             1
           ]
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Video 360",
+          "abstract": "Scopri",
+          "viewId": 13,
+          "position": [
+            0.7993145556506869,
+            -0.19717218835800995,
+            -0.5676436992190245
+          ],
+          "asset": null,
+          "link": null,
+          "id": 437579886442800
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Reception",
+          "abstract": "Torna",
+          "viewId": 12,
+          "position": [
+            0.8044425406313332,
+            -0.185979205024306,
+            0.5641665836622487
+          ],
+          "asset": null,
+          "link": null,
+          "id": 437598388178600
         }
       ],
       "orientation": {
@@ -2542,77 +2576,6 @@
       "zoom": 75
     },
     {
-      "id": 301,
-      "type": {
-        "id": 1,
-        "name": "model"
-      },
-      "name": "Dress",
-      "likes": 172,
-      "liked": false,
-      "ar": {
-        "gltf": {
-          "type": {
-            "id": 3,
-            "name": "model"
-          },
-          "folder": "/models/black_dress_with_lace_accents/",
-          "file": "scene.gltf"
-        },
-        "usdz": {
-          "type": {
-            "id": 3,
-            "name": "model"
-          },
-          "folder": "/models/black_dress_with_lace_accents/",
-          "file": "Black_dress_with_lace_accents.usdz"
-        }
-      },
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/textures/waiting-room/",
-        "file": "whiteroom2.jpg"
-      },
-      "items": [
-        {
-          "id": 2001,
-          "type": {
-            "id": 4,
-            "name": "gltf"
-          },
-          "title": "Model",
-          "abstract": "Abstract",
-          "asset": {
-            "folder": "models/black_dress_with_lace_accents/",
-            "file": "scene.gltf"
-          }
-        },
-        {
-          "id": 1041,
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Reception",
-          "abstract": "Torna",
-          "position": [
-            0.1279353763343242,
-            -0.4469467634103079,
-            -0.8853649700317067
-          ],
-          "viewId": 12
-        }
-      ],
-      "orientation": {
-        "latitude": 15,
-        "longitude": 80
-      },
-      "zoom": 55
-    },
-    {
       "id": 80,
       "type": {
         "id": 2,
@@ -2941,14 +2904,16 @@
                 },
                 "folder": "/uploads/",
                 "file": "362435971139200_info.jpg",
-                "id": 362436244372800
+                "id": 362436244372800,
+                "chromaKeyColor": null
               },
               "link": {
                 "title": "Scopri la collezione",
                 "href": "https://www.oofwear.com/it/it/?gclid=CjwKCAiAv4n9BRA9EiwA30WND8Xmwk-1mcfoWuFglx96iX1It-DFr2B_NyGS-wmSiwyJdU4TDRRgrxoCbtkQAvD_BwE",
                 "target": "_blank"
               },
-              "id": 362586169810500
+              "id": 362586169810500,
+              "keepOrientation": null
             }
           ]
         },
@@ -3201,74 +3166,81 @@
       },
       "zoom": 75,
       "id": 361592534299900,
+      "items": [],
+      "hidden": false
+    },
+    {
+      "id": 301,
+      "type": {
+        "id": 1,
+        "name": "model"
+      },
+      "name": "Dress",
+      "likes": 172,
+      "liked": false,
+      "ar": {
+        "gltf": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/black_dress_with_lace_accents/",
+          "file": "scene.gltf"
+        },
+        "usdz": {
+          "type": {
+            "id": 3,
+            "name": "model"
+          },
+          "folder": "/models/black_dress_with_lace_accents/",
+          "file": "Black_dress_with_lace_accents.usdz"
+        }
+      },
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/waiting-room/",
+        "file": "whiteroom2.jpg"
+      },
       "items": [
         {
+          "id": 2001,
           "type": {
-            "id": 1,
-            "name": "nav"
+            "id": 4,
+            "name": "gltf"
           },
-          "title": "Video 360",
-          "abstract": "Guarda",
-          "viewId": 13,
-          "position": [
-            -0.15252816483485956,
-            -0.0817115168758176,
-            0.9849154212123815
-          ],
-          "asset": null,
-          "id": 362726121775600,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Reception",
-          "abstract": null,
-          "viewId": 12,
-          "position": [
-            -0.9842502224400411,
-            0.0033184539420673,
-            -0.1767497878079747
-          ],
-          "asset": null,
-          "id": 362739005392900,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "OOF WEAR",
-          "abstract": "Giacche e Giubbotti eco-sostenibilI 100% Animal Friendly ti aspettano su OOF WEAR",
-          "viewId": 361592534299900,
-          "position": [
-            0.7932327780504547,
-            -0.10014111274088425,
-            -0.6006276028999795
-          ],
+          "title": "Model",
+          "abstract": "Abstract",
           "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "362792569924100_info.jpg",
-            "id": 362792841074300,
-            "chromaKeyColor": null
+            "folder": "models/black_dress_with_lace_accents/",
+            "file": "scene.gltf"
+          }
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
           },
-          "link": {
-            "title": "Scopri la collezione",
-            "href": "https://www.oofwear.com/it/it/?gclid=CjwKCAiAv4n9BRA9EiwA30WNDy_h0aQnBVOG2aPFIAoeo96jxznaMdB43T-5zZBoAhEDKTNMA8WtbRoCLYkQAvD_BwE",
-            "target": "_blank"
-          },
-          "id": 362801606865200,
-          "keepOrientation": null
+          "title": "Sala Meeting",
+          "abstract": "Torna",
+          "viewId": 26,
+          "position": [
+            0.180752238247983,
+            -0.4190075158717376,
+            -0.8898097156197722
+          ],
+          "asset": null,
+          "link": null,
+          "id": 437684474072799
         }
       ],
-      "hidden": false
+      "orientation": {
+        "latitude": 15,
+        "longitude": 70
+      },
+      "zoom": 70
     }
   ],
   "assets": [
@@ -3387,7 +3359,8 @@
       },
       "folder": "/uploads/",
       "file": "362435971139200_info.jpg",
-      "id": 362436244372800
+      "id": 362436244372800,
+      "chromaKeyColor": null
     },
     {
       "type": {

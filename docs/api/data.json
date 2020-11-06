@@ -798,6 +798,68 @@
         "id": 2,
         "name": "panorama"
       },
+      "name": "STUDIO LIVE",
+      "likes": 40,
+      "liked": false,
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/textures/welcome-room/",
+        "file": "studio.jpg"
+      },
+      "zoom": 75,
+      "id": 701154801750601,
+      "items": [
+        {
+          "id": 2621,
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "asset": {
+            "type": {
+              "id": 5,
+              "name": "next-attendee-stream"
+            },
+            "folder": "",
+            "file": "nextAttendeeStream",
+            "chromaKeyColor": [
+              0,
+              1,
+              0
+            ],
+            "index": 0
+          },
+          "position": [
+            20,
+            0.1,
+            0
+          ],
+          "rotation": [
+            0,
+            -1.57079632679,
+            0
+          ],
+          "scale": [
+            15,
+            10,
+            1
+          ]
+        }
+      ],
+      "orientation": {
+        "latitude": -10.799999999999997,
+        "longitude": 0.6000000000000227
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
       "name": "DIRETTA 360°",
       "asset": {
         "type": {
@@ -1972,6 +2034,15 @@
       "folder": "/uploads/",
       "file": "273851876726400_PastedGraphic-17.png",
       "id": 273851890206000
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "529414178122899_269400775785800_Unreal Engine Demo 360 2020.11.03 - 11.11.51.19.jpg",
+      "id": 529414377463800
     }
   ],
   "users": [

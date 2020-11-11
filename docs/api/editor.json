@@ -28,7 +28,7 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "Welcome Room",
+      "name": "RECEPTION",
       "asset": {
         "type": {
           "id": 1,
@@ -86,7 +86,7 @@
           },
           "title": "STUDIO",
           "abstract": "Studio TV",
-          "viewId": 701138839972600,
+          "viewId": 701154801750601,
           "position": [
             0.23425969878522074,
             -0.005991203442923846,
@@ -127,8 +127,8 @@
             0.005703979447222601
           ],
           "asset": null,
-          "link": null,
-          "id": 272705366345800
+          "id": 272705366345800,
+          "keepOrientation": null
         }
       ],
       "hidden": false
@@ -161,19 +161,19 @@
             "name": "plane"
           },
           "position": [
-            19.923829762543182,
-            1.3,
+            21.1238297625432,
+            1.9000000000000006,
             -0.0024120668349053675
           ],
           "rotation": [
             1.5694131403522955,
-            -1.483,
+            -1.588,
             1.5694078523375978,
             "XYZ"
           ],
           "scale": [
             22,
-            11.5,
+            12.5,
             1
           ],
           "asset": {
@@ -182,8 +182,8 @@
               "name": "video"
             },
             "folder": "/uploads/",
-            "file": "179282881741600_gedi.mp4",
-            "id": 179283008138899,
+            "file": "21960277963300_video.mp4",
+            "id": 21961029638699,
             "chromaKeyColor": null
           },
           "id": 179204674124900
@@ -193,8 +193,8 @@
             "id": 1,
             "name": "nav"
           },
-          "title": "Welcome Room",
-          "abstract": "Torna",
+          "title": "Reception",
+          "abstract": null,
           "viewId": 701026727947000,
           "position": [
             0.8007515220079812,
@@ -211,8 +211,8 @@
             "name": "plane"
           },
           "position": [
-            19.52331391509496,
-            -3.3000000000000003,
+            18.323313915094943,
+            -2.4999999999999996,
             0
           ],
           "rotation": [
@@ -222,8 +222,8 @@
             "XYZ"
           ],
           "scale": [
+            6.8,
             4,
-            2.1,
             1
           ],
           "asset": {
@@ -232,8 +232,8 @@
               "name": "video"
             },
             "folder": "/uploads/",
-            "file": "179636644610000_green-screen.mp4",
-            "id": 179637042972200,
+            "file": "22069218733700_greenback_noaudio.mp4",
+            "id": 22069452693200,
             "chromaKeyColor": [
               0,
               1,
@@ -247,9 +247,9 @@
             "id": 1,
             "name": "nav"
           },
-          "title": "SALA VIDEO",
-          "abstract": "Streaming",
-          "viewId": 180117092207199,
+          "title": "Diretta 360°",
+          "abstract": null,
+          "viewId": 179937912794300,
           "position": [
             0.8007256652579062,
             -0.1946785232123509,
@@ -257,7 +257,8 @@
           ],
           "asset": null,
           "link": null,
-          "id": 183114287549400
+          "id": 183114287549400,
+          "keepOrientation": null
         }
       ],
       "hidden": false
@@ -267,47 +268,23 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "Timesquare",
-      "asset": {
-        "type": {
-          "id": 2,
-          "name": "video"
-        },
-        "folder": "/uploads/",
-        "file": "701113410652600_time-square-01.mp4",
-        "id": 701113433459800
-      },
-      "orientation": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "zoom": 75,
-      "id": 701114816045600
-    },
-    {
-      "type": {
-        "id": 2,
-        "name": "panorama"
-      },
       "name": "STUDIO",
+      "likes": 40,
+      "liked": false,
       "asset": {
         "type": {
           "id": 1,
           "name": "image"
         },
         "folder": "/uploads/",
-        "file": "269400775785800_Unreal Engine Demo 360 2020.11.03 - 11.11.51.19.jpg",
-        "id": 269401094149600
-      },
-      "orientation": {
-        "latitude": 0.2,
-        "longitude": 352.4
+        "file": "28544104835700_studiotvred.jpg",
+        "id": 28544237670500
       },
       "zoom": 75,
-      "id": 701138839972600,
+      "id": 701154801750601,
       "items": [
         {
-          "id": 3333,
+          "id": 2450,
           "type": {
             "id": 2,
             "name": "plane"
@@ -326,20 +303,37 @@
             ]
           },
           "position": [
-            11,
-            0.4,
-            1.55
+            23.800000000000054,
+            1.1,
+            6.82175013970447
           ],
           "rotation": [
-            0,
-            -1.3,
-            0
+            2.964,
+            -0.9491648360920264,
+            2.9904715370519037
           ],
           "scale": [
-            2.8,
-            1.9,
+            17,
+            10,
             1
           ]
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Reception",
+          "abstract": null,
+          "viewId": 701026727947000,
+          "position": [
+            -0.0765304680602499,
+            -0.020898817403944205,
+            0.9968481965121849
+          ],
+          "asset": null,
+          "id": 22921552641899,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -347,19 +341,19 @@
             "name": "plane"
           },
           "position": [
-            19.9,
-            0.9,
-            -1.368369538878858
+            18.38531126005579,
+            -0.6518411506804385,
+            0.403034679607016
           ],
           "rotation": [
-            -0.301,
-            -1.468,
-            -0.2991175826810733,
+            -2.1245645888408253,
+            -1.5673746738257754,
+            -2.1248932773395435,
             "XYZ"
           ],
           "scale": [
-            5.8,
-            3.9,
+            17,
+            10,
             1
           ],
           "asset": {
@@ -368,31 +362,314 @@
               "name": "video"
             },
             "folder": "/uploads/",
-            "file": "182143942417700_green-screen.mp4",
-            "id": 182144828567200,
+            "file": "26245546112000_22069218733700_greenback_noaudio.mp4",
+            "id": 26246709721900,
             "chromaKeyColor": [
               0,
               1,
               0
             ]
           },
-          "id": 182146936172100
+          "id": 23127992962700
+        },
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            23.39999999999999,
+            1.3,
+            -7.32256049586158
+          ],
+          "rotation": [
+            0.05168222938153583,
+            -0.5964903819238664,
+            0.04571604094941504,
+            "XYZ"
+          ],
+          "scale": [
+            20.3,
+            10.5,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "26261655252900_204266459290800_179282881741600_gedi.mp4",
+            "id": 26261771412200,
+            "chromaKeyColor": null
+          },
+          "id": 24866372921700
+        }
+      ],
+      "orientation": {
+        "latitude": -10.799999999999997,
+        "longitude": 0.6000000000000227
+      },
+      "hidden": false
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "DIRETTA 360°",
+      "asset": {
+        "type": {
+          "id": 2,
+          "name": "video"
+        },
+        "folder": "/uploads/",
+        "file": "179931846546500_videovr.mp4",
+        "id": 179932588441500
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 75,
+      "id": 179937912794300,
+      "items": [
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Reception",
+          "abstract": "Torna",
+          "viewId": 701026727947000,
+          "position": [
+            0.9340020792140945,
+            -0.3550869529279094,
+            -0.039412839077145045
+          ],
+          "asset": null,
+          "link": null,
+          "id": 180017803394100,
+          "keepOrientation": null
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "panorama"
+      },
+      "name": "GALLERY ",
+      "asset": {
+        "type": {
+          "id": 1,
+          "name": "image"
+        },
+        "folder": "/uploads/",
+        "file": "273021138429100_Room3D.jpg",
+        "id": 273021380257800
+      },
+      "orientation": {
+        "latitude": 0,
+        "longitude": 0
+      },
+      "zoom": 68.9691,
+      "id": 204118528576400,
+      "items": [
+        {
+          "type": {
+            "id": 2,
+            "name": "plane"
+          },
+          "position": [
+            17.56748422336423,
+            2.1335989779950015,
+            10.11832889862487
+          ],
+          "rotation": [
+            2.9514112370213077,
+            -1.517058959258549,
+            2.9431208144045473,
+            "XYZ"
+          ],
+          "scale": [
+            11,
+            6,
+            1
+          ],
+          "asset": {
+            "type": {
+              "id": 2,
+              "name": "video"
+            },
+            "folder": "/uploads/",
+            "file": "204266459290800_179282881741600_gedi.mp4",
+            "id": 204266577108300,
+            "chromaKeyColor": null
+          },
+          "id": 204269709685800
         },
         {
           "type": {
             "id": 1,
             "name": "nav"
           },
-          "title": "Welcome Room",
-          "abstract": "Torna",
+          "title": "La Stampa",
+          "abstract": "L'accordo sullo sblocco torino",
+          "viewId": 204118528576400,
+          "position": [
+            0.9363771429485457,
+            -0.14296262555221534,
+            -0.3205612794127451
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273269860357799_plane-08.jpg",
+            "id": 273269889218400,
+            "chromaKeyColor": null
+          },
+          "link": {
+            "title": "Gedi sala stampa",
+            "href": "http://www.gedispa.it/it/sala-stampa/comunicati-stampa.html",
+            "target": "_blank"
+          },
+          "id": 273163553583199,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Reception",
+          "abstract": null,
           "viewId": 701026727947000,
           "position": [
-            -0.07955179503161898,
-            -0.012091012677267194,
-            0.9967574024403759
+            0.8748296985250655,
+            -0.07355136445605855,
+            0.4788143642009864
           ],
           "asset": null,
-          "id": 189749139224400,
+          "link": null,
+          "id": 273318936100600,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "L'arte di Tullio Pericoli",
+          "abstract": "Le illustrazioni",
+          "viewId": 204118528576400,
+          "position": [
+            0.48477627041721216,
+            -0.08752172051285127,
+            0.8702481922295779
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273606412957799_PastedGraphic-1.png",
+            "id": 273606694404400,
+            "chromaKeyColor": null
+          },
+          "link": {
+            "title": "Tullio Pericoli",
+            "href": "https://www.tulliopericoli.com/",
+            "target": "_blank"
+          },
+          "id": 273607732168299,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Robinson",
+          "abstract": "I libri da non perdere",
+          "viewId": 204118528576400,
+          "position": [
+            -0.8613116736797153,
+            -0.30467038486283854,
+            0.40659335627943705
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273704111989600_robinson-46.png",
+            "id": 273704128161499,
+            "chromaKeyColor": null
+          },
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.repubblica.it/robinson/",
+            "target": "_blank"
+          },
+          "id": 273705761003099,
+          "keepOrientation": null
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "La Repubblica",
+          "abstract": "Il giornale",
+          "viewId": 204118528576400,
+          "position": [
+            -0.1551022250394225,
+            -0.2382223888445413,
+            -0.9587457396207926
+          ],
+          "asset": null,
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.repubblica.it/",
+            "target": "_blank"
+          },
+          "id": 273798477571200
+        },
+        {
+          "type": {
+            "id": 1,
+            "name": "nav"
+          },
+          "title": "Tullio Pericoli",
+          "abstract": "Tutte le illustrazioni ",
+          "viewId": 204118528576400,
+          "position": [
+            -0.049124361608920857,
+            -0.12319765439452304,
+            0.9911655437151776
+          ],
+          "asset": {
+            "type": {
+              "id": 1,
+              "name": "image"
+            },
+            "folder": "/uploads/",
+            "file": "273851876726400_PastedGraphic-17.png",
+            "id": 273851890206000,
+            "chromaKeyColor": null
+          },
+          "link": {
+            "title": "Scopri",
+            "href": "https://www.tulliopericoli.com/",
+            "target": "_blank"
+          },
+          "id": 273875609279899,
           "keepOrientation": null
         }
       ],
@@ -414,8 +691,8 @@
         "id": 701149181839400
       },
       "orientation": {
-        "latitude": -7.200000000000001,
-        "longitude": 86.6
+        "latitude": -6.000000000000001,
+        "longitude": 86.80000000000001
       },
       "zoom": 75,
       "id": 701154801750500,
@@ -426,7 +703,7 @@
             "name": "plane"
           },
           "position": [
-            -1.0999999999999999,
+            -0.8999999999999999,
             -2.8,
             19.77019345345795
           ],
@@ -447,8 +724,8 @@
               "name": "video"
             },
             "folder": "/uploads/",
-            "file": "183332188116299_gedi.mp4",
-            "id": 183332674905300,
+            "file": "22442198775099_Video finale SG.mp4",
+            "id": 22443015183300,
             "chromaKeyColor": null
           },
           "id": 183335188898600
@@ -697,8 +974,8 @@
               "name": "video"
             },
             "folder": "/uploads/",
-            "file": "189931272559299_plane-05.mp4",
-            "id": 189931702347900,
+            "file": "22524663123100_Video finale SG.mp4",
+            "id": 22525492217400,
             "chromaKeyColor": null
           },
           "id": 189936510108400
@@ -798,230 +1075,22 @@
         "id": 2,
         "name": "panorama"
       },
-      "name": "STUDIO LIVE",
-      "likes": 40,
-      "liked": false,
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/textures/welcome-room/",
-        "file": "studio.jpg"
-      },
-      "zoom": 75,
-      "id": 701154801750601,
-      "items": [
-        {
-          "id": 2621,
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "asset": {
-            "type": {
-              "id": 5,
-              "name": "next-attendee-stream"
-            },
-            "folder": "",
-            "file": "nextAttendeeStream",
-            "chromaKeyColor": [
-              0,
-              1,
-              0
-            ],
-            "index": 0
-          },
-          "position": [
-            20,
-            0.1,
-            0
-          ],
-          "rotation": [
-            0,
-            -1.57079632679,
-            0
-          ],
-          "scale": [
-            15,
-            10,
-            1
-          ]
-        }
-      ],
-      "orientation": {
-        "latitude": -10.799999999999997,
-        "longitude": 0.6000000000000227
-      },
-      "hidden": false
-    },
-    {
-      "type": {
-        "id": 2,
-        "name": "panorama"
-      },
-      "name": "DIRETTA 360°",
+      "name": "Timesquare",
       "asset": {
         "type": {
           "id": 2,
           "name": "video"
         },
         "folder": "/uploads/",
-        "file": "179931846546500_videovr.mp4",
-        "id": 179932588441500
+        "file": "701113410652600_time-square-01.mp4",
+        "id": 701113433459800
       },
       "orientation": {
         "latitude": 0,
         "longitude": 0
       },
       "zoom": 75,
-      "id": 179937912794300,
-      "items": [
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Welcome Room",
-          "abstract": "Torna",
-          "viewId": 701026727947000,
-          "position": [
-            0.9224274981778517,
-            -0.3790122438099072,
-            -0.0740083079628815
-          ],
-          "asset": null,
-          "link": null,
-          "id": 180017803394100
-        }
-      ]
-    },
-    {
-      "type": {
-        "id": 2,
-        "name": "panorama"
-      },
-      "name": "SALA VIDEO Streaming",
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/uploads/",
-        "file": "180115143554499_cinema.jpg",
-        "id": 180115164082899
-      },
-      "orientation": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "zoom": 75,
-      "id": 180117092207199,
-      "items": [
-        {
-          "id": 3333,
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "asset": {
-            "type": {
-              "id": 4,
-              "name": "publisher-stream"
-            },
-            "folder": "",
-            "file": "publisherStream",
-            "chromaKeyColor": [
-              0,
-              1,
-              0
-            ]
-          },
-          "position": [
-            18,
-            -2.4,
-            0
-          ],
-          "rotation": [
-            0,
-            -1.57079632679,
-            0
-          ],
-          "scale": [
-            5,
-            3.5,
-            1
-          ]
-        },
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            19.923829762543182,
-            1.3,
-            -0.0024120668349053675
-          ],
-          "rotation": [
-            1.5694131403522955,
-            -1.483493041730947,
-            1.5694078523375978,
-            "XYZ"
-          ],
-          "scale": [
-            22,
-            11.5,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 2,
-              "name": "video"
-            },
-            "folder": "/uploads/",
-            "file": "179282881741600_gedi.mp4",
-            "id": 179283008138899,
-            "chromaKeyColor": null
-          },
-          "id": 179204674124900
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Welcome Room",
-          "abstract": "Torna",
-          "viewId": 701026727947000,
-          "position": [
-            0.8007515220079812,
-            -0.20050824030024586,
-            0.5644408255730629
-          ],
-          "asset": null,
-          "id": 179558253690500,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "SALA VIDEO",
-          "abstract": "Classica",
-          "viewId": 701082628662000,
-          "position": [
-            0.798656442246095,
-            -0.1961171923310653,
-            -0.5689340331980411
-          ],
-          "asset": null,
-          "link": null,
-          "id": 183180140256400
-        }
-      ],
-      "hidden": false
+      "id": 701114816045600
     },
     {
       "type": {
@@ -1386,7 +1455,7 @@
             "id": 1,
             "name": "nav"
           },
-          "title": "Welcome Room",
+          "title": "Reception",
           "abstract": "Torna",
           "viewId": 701026727947000,
           "position": [
@@ -1396,7 +1465,8 @@
           ],
           "asset": null,
           "link": null,
-          "id": 188144632627200
+          "id": 188144632627200,
+          "keepOrientation": null
         },
         {
           "type": {
@@ -1420,220 +1490,6 @@
         "latitude": 10,
         "longitude": 0
       }
-    },
-    {
-      "type": {
-        "id": 2,
-        "name": "panorama"
-      },
-      "name": "GALLERY ",
-      "asset": {
-        "type": {
-          "id": 1,
-          "name": "image"
-        },
-        "folder": "/uploads/",
-        "file": "273021138429100_Room3D.jpg",
-        "id": 273021380257800
-      },
-      "orientation": {
-        "latitude": 0,
-        "longitude": 0
-      },
-      "zoom": 68.9691,
-      "id": 204118528576400,
-      "items": [
-        {
-          "type": {
-            "id": 2,
-            "name": "plane"
-          },
-          "position": [
-            17.56748422336423,
-            2.1335989779950015,
-            10.11832889862487
-          ],
-          "rotation": [
-            2.9514112370213077,
-            -1.517058959258549,
-            2.9431208144045473,
-            "XYZ"
-          ],
-          "scale": [
-            11,
-            6,
-            1
-          ],
-          "asset": {
-            "type": {
-              "id": 2,
-              "name": "video"
-            },
-            "folder": "/uploads/",
-            "file": "204266459290800_179282881741600_gedi.mp4",
-            "id": 204266577108300,
-            "chromaKeyColor": null
-          },
-          "id": 204269709685800
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "La Stampa",
-          "abstract": "L'accordo sullo sblocco torino",
-          "viewId": 204118528576400,
-          "position": [
-            0.9312687669098308,
-            -0.13385610413318264,
-            -0.33885251535812705
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "273269860357799_plane-08.jpg",
-            "id": 273269889218400,
-            "chromaKeyColor": null
-          },
-          "link": {
-            "title": "Gedi sala stampa",
-            "href": "http://www.gedispa.it/it/sala-stampa/comunicati-stampa.html",
-            "target": "_blank"
-          },
-          "id": 273163553583199,
-          "keepOrientation": null
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Receptiom",
-          "abstract": "Torna",
-          "viewId": 701026727947000,
-          "position": [
-            0.8748296985250655,
-            -0.07355136445605855,
-            0.4788143642009864
-          ],
-          "asset": null,
-          "link": null,
-          "id": 273318936100600
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "L'arte di Tullio Pericoli",
-          "abstract": "Le illustrazioni",
-          "viewId": 204118528576400,
-          "position": [
-            0.48477627041721216,
-            -0.08752172051285127,
-            0.8702481922295779
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "273606412957799_PastedGraphic-1.png",
-            "id": 273606694404400
-          },
-          "link": {
-            "title": "Tullio Pericoli",
-            "href": "https://www.tulliopericoli.com/",
-            "target": "_blank"
-          },
-          "id": 273607732168299
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Robinson",
-          "abstract": "I libri da non perdere",
-          "viewId": 204118528576400,
-          "position": [
-            -0.8613116736797153,
-            -0.30467038486283854,
-            0.40659335627943705
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "273704111989600_robinson-46.png",
-            "id": 273704128161499
-          },
-          "link": {
-            "title": "Scopri",
-            "href": "https://www.repubblica.it/robinson/",
-            "target": "_blank"
-          },
-          "id": 273705761003099
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "La Repubblica",
-          "abstract": "Il giornale",
-          "viewId": 204118528576400,
-          "position": [
-            -0.1551022250394225,
-            -0.2382223888445413,
-            -0.9587457396207926
-          ],
-          "asset": null,
-          "link": {
-            "title": "Scopri",
-            "href": "https://www.repubblica.it/",
-            "target": "_blank"
-          },
-          "id": 273798477571200
-        },
-        {
-          "type": {
-            "id": 1,
-            "name": "nav"
-          },
-          "title": "Tullio Pericoli",
-          "abstract": "Tutte le illustrazioni ",
-          "viewId": 204118528576400,
-          "position": [
-            -0.049124361608920857,
-            -0.12319765439452304,
-            0.9911655437151776
-          ],
-          "asset": {
-            "type": {
-              "id": 1,
-              "name": "image"
-            },
-            "folder": "/uploads/",
-            "file": "273851876726400_PastedGraphic-17.png",
-            "id": 273851890206000
-          },
-          "link": {
-            "title": "Scopri",
-            "href": "https://www.tulliopericoli.com/",
-            "target": "_blank"
-          },
-          "id": 273875609279899
-        }
-      ],
-      "hidden": false
     }
   ],
   "assets": [
@@ -2015,7 +1871,8 @@
       },
       "folder": "/uploads/",
       "file": "273606412957799_PastedGraphic-1.png",
-      "id": 273606694404400
+      "id": 273606694404400,
+      "chromaKeyColor": null
     },
     {
       "type": {
@@ -2024,7 +1881,8 @@
       },
       "folder": "/uploads/",
       "file": "273704111989600_robinson-46.png",
-      "id": 273704128161499
+      "id": 273704128161499,
+      "chromaKeyColor": null
     },
     {
       "type": {
@@ -2033,7 +1891,8 @@
       },
       "folder": "/uploads/",
       "file": "273851876726400_PastedGraphic-17.png",
-      "id": 273851890206000
+      "id": 273851890206000,
+      "chromaKeyColor": null
     },
     {
       "type": {
@@ -2043,6 +1902,116 @@
       "folder": "/uploads/",
       "file": "529414178122899_269400775785800_Unreal Engine Demo 360 2020.11.03 - 11.11.51.19.jpg",
       "id": 529414377463800
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "21960277963300_video.mp4",
+      "id": 21961029638699,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "22069218733700_greenback_noaudio.mp4",
+      "id": 22069452693200,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "22442198775099_Video finale SG.mp4",
+      "id": 22443015183300,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "22524663123100_Video finale SG.mp4",
+      "id": 22525492217400,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "22824955012900_studiotv.jpg",
+      "id": 22825052964500
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "23125847254300_greenback_noaudio.mp4",
+      "id": 23127048026300,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "25004984609199_Video finale SG.mp4",
+      "id": 25005837689800,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "26245546112000_22069218733700_greenback_noaudio.mp4",
+      "id": 26246709721900,
+      "chromaKeyColor": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "type": {
+        "id": 2,
+        "name": "video"
+      },
+      "folder": "/uploads/",
+      "file": "26261655252900_204266459290800_179282881741600_gedi.mp4",
+      "id": 26261771412200,
+      "chromaKeyColor": null
+    },
+    {
+      "type": {
+        "id": 1,
+        "name": "image"
+      },
+      "folder": "/uploads/",
+      "file": "28544104835700_studiotvred.jpg",
+      "id": 28544237670500
     }
   ],
   "users": [
